@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+
     <div class="container">
       <form action="registration.php" method="post">
         <div class="form-group">
